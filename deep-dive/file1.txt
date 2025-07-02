@@ -1,1 +1,6 @@
 working on a nice project
+
+my second nice feature
+
+
+my third feature
